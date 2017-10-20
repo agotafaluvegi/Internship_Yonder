@@ -1,0 +1,2 @@
+TRIGGER PROCEDURE FOR CREATE OF BloodBank.
+ASSIGN BloodBank.ID = NEXT-VALUE(NextBloodBank).
